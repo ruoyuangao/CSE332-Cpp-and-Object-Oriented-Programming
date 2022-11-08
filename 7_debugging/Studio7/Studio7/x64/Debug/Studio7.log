@@ -1,0 +1,3 @@
+﻿  algorithms.cpp
+D:\FL22\OOD\Repos\studio3-sasashui\studio7\Studio7\Studio7\algorithms.cpp(54,67): warning C4267: 'argument': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Studio7.vcxproj -> D:\FL22\OOD\Repos\studio3-sasashui\studio7\Studio7\x64\Debug\Studio7.exe
