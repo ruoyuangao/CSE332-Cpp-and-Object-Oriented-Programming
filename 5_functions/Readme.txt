@@ -1,8 +1,3 @@
-Group member names:
-1. Zhaohua Zheng
-2. Kathy Pan
-3. Kelly Gao
-
 Question 2:
 num1 = 13
 num2 = 25

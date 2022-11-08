@@ -28,7 +28,7 @@ void mySwap(int* const & a, int* const & b) {
 int main(int argc, char* argv[])
 {
     /*
-    * code for question 3
+    * code for question 3 -- pass by reference
     */
     int num1 = 13;
     int num2 = 25;
